@@ -15,7 +15,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="20" />
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
 </div>
 
 ###
